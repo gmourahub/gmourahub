@@ -1,4 +1,4 @@
-name: "scribe readme"
+name: Update README
 
 on:
   push:
@@ -6,9 +6,7 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  scribe-readme:
-    name: "scribe-readme"
-
+  markscribe:
     runs-on: ubuntu-latest
 
     steps:
