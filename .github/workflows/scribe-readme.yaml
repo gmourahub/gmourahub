@@ -27,6 +27,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: KennedyTedesco
-          commit_user_email: kennedyt.tw@gmail.com
-          commit_author: Kennedy Tedesco <kennedyt.tw@gmail.com>
+          commit_user_name: gmourahub
+          commit_user_email: gmourahub@gmail.com
+          commit_author: gmourahub <gmourahub@gmail.com>
