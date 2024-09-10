@@ -20,7 +20,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
-- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) Orchestration and Code Generation tool for Terraform, OpenTofu and Terragrunt. (3 weeks ago)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (today)
 
 #### 💬 Feedback
 
