@@ -3,7 +3,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 👷 Check out what I'm currently working on
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (today)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 day ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (2 weeks ago)
 - [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (1 month ago)
 
@@ -20,11 +20,11 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (today)
+- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (3 days ago)
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (4 days ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (1 week ago)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (1 week ago)
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) Orchestration and Code Generation tool for Terraform, OpenTofu and Terragrunt. (1 month ago)
