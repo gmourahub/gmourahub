@@ -32,6 +32,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 👯 Check out some of my recent followers
 
+- [igventurelli](https://github.com/igventurelli)
 - [KennedyTedesco](https://github.com/KennedyTedesco)
 
 #### 💬 Feedback
