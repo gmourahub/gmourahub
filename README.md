@@ -37,7 +37,6 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 💬 Feedback
 
-Say Hello, I don't bite!
+Let's go!
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
