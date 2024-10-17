@@ -5,7 +5,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 weeks ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (1 month ago)
-- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (1 month ago)
+- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (2 months ago)
 
 #### 🌱 My latest projects
 
