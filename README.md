@@ -15,8 +15,8 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔭 Latest releases I've contributed to
 
+- [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.0](https://github.com/localsend/localsend/releases/tag/v1.16.0), today) - An open-source cross-platform alternative to AirDrop
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) ([v0.4](https://github.com/gmourahub/iac-modules/releases/tag/v0.4), 2 months ago) - 
-- [localsend/localsend](https://github.com/localsend/localsend) ([v1.15.4](https://github.com/localsend/localsend/releases/tag/v1.15.4), 2 months ago) - An open-source cross-platform alternative to AirDrop
 
 #### 🔨 My recent Pull Requests
 
