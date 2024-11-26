@@ -15,7 +15,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔭 Latest releases I've contributed to
 
-- [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.1](https://github.com/localsend/localsend/releases/tag/v1.16.1), 2 weeks ago) - An open-source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.1](https://github.com/localsend/localsend/releases/tag/v1.16.1), 3 weeks ago) - An open-source cross-platform alternative to AirDrop
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) ([v0.4](https://github.com/gmourahub/iac-modules/releases/tag/v0.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -24,7 +24,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
-- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation (3 days ago)
+- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation (4 days ago)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (3 weeks ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (1 month ago)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (1 month ago)
