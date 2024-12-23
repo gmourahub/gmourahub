@@ -4,7 +4,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 #### 👷 Check out what I'm currently working on
 
 - [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (3 weeks ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 months ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 months ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (2 months ago)
+- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (3 months ago)
 
 #### ⭐ Recent Stars
 
