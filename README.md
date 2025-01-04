@@ -15,7 +15,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔭 Latest releases I've contributed to
 
-- [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.1](https://github.com/localsend/localsend/releases/tag/v1.16.1), 1 month ago) - An open-source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.1](https://github.com/localsend/localsend/releases/tag/v1.16.1), 2 months ago) - An open-source cross-platform alternative to AirDrop
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) ([v0.4](https://github.com/gmourahub/iac-modules/releases/tag/v0.4), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -24,11 +24,11 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 weeks ago)
+- [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module) - Example Terraform Module Scaffolding (today)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 weeks ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. (4 weeks ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation (1 month ago)
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation (1 month ago)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
