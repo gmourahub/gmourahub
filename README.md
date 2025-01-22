@@ -4,7 +4,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 #### 👷 Check out what I'm currently working on
 
 - [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (1 month ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 months ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 months ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (3 months ago)
+- [Update pt-BR translation](https://github.com/localsend/localsend/pull/1809) on [localsend/localsend](https://github.com/localsend/localsend) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [vfarcic/idp-full-demo](https://github.com/vfarcic/idp-full-demo) -  (5 days ago)
+- [vfarcic/idp-full-demo](https://github.com/vfarcic/idp-full-demo) -  (6 days ago)
 - [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module) - Example Terraform Module Scaffolding (2 weeks ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. (1 month ago)
