@@ -3,7 +3,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 👷 Check out what I'm currently working on
 
-- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (1 day ago)
+- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (2 days ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 months ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (4 months ago)
 
@@ -16,7 +16,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 #### 🔭 Latest releases I've contributed to
 
 - [localsend/localsend](https://github.com/localsend/localsend) ([v1.16.1](https://github.com/localsend/localsend/releases/tag/v1.16.1), 2 months ago) - An open-source cross-platform alternative to AirDrop
-- [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) ([v0.4](https://github.com/gmourahub/iac-modules/releases/tag/v0.4), 4 months ago) - 
+- [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) ([v0.4](https://github.com/gmourahub/iac-modules/releases/tag/v0.4), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -24,11 +24,11 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
+- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (today)
 - [vfarcic/idp-full-demo](https://github.com/vfarcic/idp-full-demo) -  (1 week ago)
 - [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module) - Example Terraform Module Scaffolding (3 weeks ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. (1 month ago)
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
