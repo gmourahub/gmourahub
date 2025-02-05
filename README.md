@@ -24,11 +24,11 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
+- [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) -  (today)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
 - [vfarcic/idp-full-demo](https://github.com/vfarcic/idp-full-demo) -  (2 weeks ago)
 - [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module) - Example Terraform Module Scaffolding (1 month ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
