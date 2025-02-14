@@ -3,7 +3,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### 👷 Check out what I'm currently working on
 
-- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (4 days ago)
+- [gmourahub/argocd](https://github.com/gmourahub/argocd) - Testando o argocd no minikube (5 days ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 months ago)
 - [gmourahub/iac-modules](https://github.com/gmourahub/iac-modules) -  (5 months ago)
 
@@ -24,7 +24,7 @@ My name is Guilherme. I was born in Brazil 🇧🇷.
 
 #### ⭐ Recent Stars
 
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (5 days ago)
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (6 days ago)
 - [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) -  (1 week ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (2 weeks ago)
 - [vfarcic/idp-full-demo](https://github.com/vfarcic/idp-full-demo) -  (4 weeks ago)
